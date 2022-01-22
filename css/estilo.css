@@ -1,0 +1,25 @@
+body {
+    content: "";
+    background:url('../imagenes/fondo.jpg');
+    
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;   
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+  }
+
+  h1{
+    font-family:arial;color:#AD8E44;text-align: center
+  }
+  h2{
+    color:#E0904C
+  }
+  h3{
+    color:blanchedalmond
+  }
